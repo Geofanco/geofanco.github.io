@@ -20,11 +20,12 @@ Cambio de escenario y descubrimiento de la riqueza local.
 
 # Programa especial costo $300 
 **para los que quieran ceremonia de ayahuasca**
-
+<div id="bloc_page">
 <textarea STYLE="border-style: none;" cols=80 rows=4>
 	Aprender a cosinar el ayahuasca 
 	Aprender el chamanismo
 </textarea>
+</div> <!-- div bloc_page -->
 
 # Contactar con nosotros
 
