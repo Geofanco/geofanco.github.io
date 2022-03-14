@@ -1,9 +1,8 @@
 
-# La familia Nunta Vasquez te acompaña en el bosque
 
 Cambio de escenario y descubrimiento de la riqueza local.
 
-# Menu principal
+# Servicios ofrecidos
 
 1 - Caminata por la selva visitar comunidades indígenas
 
@@ -22,14 +21,14 @@ Cambio de escenario y descubrimiento de la riqueza local.
 # Programa especial costo $300 
 **para los que quieran ceremonia de ayahuasca**
 
-<textarea STYLE="border-style: none;" cols=80 rows=5>
+<textarea STYLE="border-style: none;" cols=80 rows=4>
 	Aprender a cosinar el ayahuasca 
 	Aprender el chamanismo
 </textarea>
 
 # Contactar con nosotros
 
-<textarea STYLE="border-style: none;" cols=80 rows=5>
+<textarea STYLE="border-style: none;" cols=80 rows=4>
         Email : wnvcriz@gmail.com
 	Telefono : 0000000000
 	Dirección : 
