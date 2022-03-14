@@ -1,3 +1,21 @@
+## C'est le moement de se creuser la tête pour réussir à sortir quelque chose de tout ça
+
+Patience et longueur de temps et ça va le faire
+
+# Menu principal
+
+1-caminata por la selva visitar comunidades indígenas
+2-hacer caminata nocturna observa diferentes especies de animales.
+3-hacer pescas por el rio
+4-hacer canotaje
+5-visitar las comunidades d la selva
+6-explorar por la selva
+7-paseo en bote por el rio amazona
+
+y para los que quieran ceremonia de ayahuasca
+Aprender a cosinar el ayahuasca 
+Aprender el chamanismo.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Geofanco/geofanco.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
