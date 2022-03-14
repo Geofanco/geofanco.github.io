@@ -1,4 +1,4 @@
-## La familia Nunta Vasquez te acompaña en el bosque
+# La familia Nunta Vasquez te acompaña en el bosque
 
 Cambio de escenario y descubrimiento de la riqueza local.
 
@@ -28,5 +28,7 @@ Cambio de escenario y descubrimiento de la riqueza local.
 
 </textarea>
 
+# Contactar con nosotros
 
-
+Email : wnvcriz@gmail.com
+Telefono : 0000000000
