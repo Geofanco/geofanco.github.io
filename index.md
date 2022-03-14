@@ -21,9 +21,9 @@ Patience et longueur de temps et ça va le faire
 # Programa especial costo $300 
 **para los que quieran ceremonia de ayahuasca**
 
-  Aprender a cosinar el ayahuasca 
+ <meta charset="utf-8" /> Aprender a cosinar el ayahuasca 
   
-  Aprender el chamanismo.
+ <meta charset="utf-8" /> Aprender el chamanismo.
 
 ## Welcome to GitHub Pages
 
