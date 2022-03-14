@@ -18,8 +18,7 @@ Patience et longueur de temps et ça va le faire
 
 7-paseo en bote por el rio amazona
 
-
-y para los que quieran ceremonia de ayahuasca
+# Programa especial costo $300 **para los que quieran ceremonia de ayahuasca**
 
   Aprender a cosinar el ayahuasca 
   
