@@ -2,7 +2,7 @@
 	
 Cambio de escenario y descubrimiento de la riqueza local.
 
-# Servicios ofrecidos  (costo $250)
+# Servicios ofrecidos  (costo $400)
 
 1 - Caminata por la selva visitar comunidades indígenas
 
