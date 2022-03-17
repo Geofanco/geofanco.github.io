@@ -1,4 +1,9 @@
-<A HREF="http://?"><IMG SRC="https://viago.ca/wp-content/uploads/2018/09/Amazonie-1-768x432.jpg" ALT="?" BORDER=0>Texte dans l'image</A>
+<A HREF="http://?"><IMG SRC="https://viago.ca/wp-content/uploads/2018/09/Amazonie-1-768x432.jpg" ALT="?" BORDER=0></A>
+	
+<div class="superposition-simple">
+ <img class="image-originale" src="https://viago.ca/wp-content/uploads/2018/09/Amazonie-1-768x432.jpg" />
+ <div class="texte-original">Texte simple sans hover</div>
+</div>
 
 Cambio de escenario y descubrimiento de la riqueza local.
 
