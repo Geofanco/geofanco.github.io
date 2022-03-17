@@ -1,11 +1,11 @@
 <A HREF="http://?"><IMG SRC="https://viago.ca/wp-content/uploads/2018/09/Amazonie-1-768x432.jpg" ALT="?" BORDER=0></A>
 	
 <div class="superposition-simple">
- <img class="image-originale" src="https://viago.ca/wp-content/uploads/2018/09/Amazonie-1-768x432.jpg" />
+ <img class="image-originale" src="https://bidon.jpg" />
  <div class="texte-original">Texte simple sans hover</div>
 </div>
 
-Cambio de escenario y descubrimiento de la riqueza local.
+Cambio de escenario y descubrimiento de la riqueza local.  (costo $250)
 
 # Servicios ofrecidos
 
@@ -17,13 +17,13 @@ Cambio de escenario y descubrimiento de la riqueza local.
 
 4 - Hacer canotaje
 
-5 - Visitar las comunidades d la selva
+5 - Visitar las comunidades de la selva
 
 6 - Explorar por la selva
 
 7 - Paseo en bote por el rio amazona
 
-# Programa especial costo $300 
+# Programa especial (costo $300) 
 **para los que quieran ceremonia de ayahuasca**
 <div id="bloc_page">
 <textarea STYLE="border-style: none;" cols=80 rows=4>
@@ -35,7 +35,6 @@ Cambio de escenario y descubrimiento de la riqueza local.
 # Contactar con nosotros
 
 <textarea STYLE="border-style: none;" cols=80 rows=4>
-        Email : wnvcriz@gmail.com
-	Telefono : 0000000000
-	Dirección : 
+        Email : DescubreSelvaAmazonica-Iquitos@gmail.com
+
 </textarea>
