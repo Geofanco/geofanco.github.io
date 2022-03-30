@@ -2,7 +2,7 @@
 	
 Cambio de escenario y descubrimiento de la riqueza local.
 
-# Viaje en la selva  (costo $100 por dia y por persona)
+# Viaje en la selva  (costo $730 por persona)
 
 El programa 
  
