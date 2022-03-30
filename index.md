@@ -15,9 +15,9 @@ Dia 4 - Hacer caminata nocturnas para conocer diferentes especies de animales co
 
 Dia 5 - Hacer pesca a estilo indigena elaborando nuestra propria caña de pesca
 
-Dia 6 - Hacer canotaje, âsear en canoa por los rios y quebradas observando diferentes especies de plantas y animales
+Dia 6 - Hacer canotaje, pasear en canoa por los rios y quebradas observando diferentes especies de plantas y animales
 
-Dia 7 - Uno ceremonia de ayahuasca por la noche reuniendo a los participantes junto al chaman para hacer un rutual de limpieza con sus cantos del chaman y el humo del tabaco para despedirmos de la selva.
+Dia 7 - Una ceremonia de ayahuasca por la noche reuniendo a los participantes junto al chaman para hacer un ritual de limpieza con sus cantos del chaman y el humo del tabaco para despedirmos de la selva.
 
 	
 	
