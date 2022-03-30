@@ -38,7 +38,9 @@ Primero conociendo Nauta y sus neonto y por la tarde nos dirigimmos al pueblo de
 	1 - Ceremonia de ayahuasca
 	2 - Préparacion de la ayahusaca  
 	3 - El chamanismo
-	
+</textarea>
+</div> <!-- div bloc_page -->
+
 Requisitos para realizar la ceremonia:
 
 - ser mayor de edad
@@ -46,8 +48,7 @@ Requisitos para realizar la ceremonia:
 - ningún problema psicológico
 - una semana antes de la ceremonia, suspender todo consumo de carne, alimentos con alto contenido de azúcar, frituras y alimentos con alto contenido de grasa, todas las drogas y el alcohol.
 	
-</textarea>
-</div> <!-- div bloc_page -->
+	
 
 # Contactar con nosotros
 
