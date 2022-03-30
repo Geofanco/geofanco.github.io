@@ -1,7 +1,9 @@
+<A HREF="http://?"><IMG SRC="https://viago.ca/wp-content/uploads/2018/09/Amazonie-1-768x432.jpg" ALT="?" BORDER=0></A>
+	
+Cambio de escenario y descubrimiento de la riqueza local.
 
 
-
-Los dias del tour ($730 por personas)
+#Los dias del tour ($730 por personas)
 
 Dia 1 - Vicitar comunidad indigena por el rio Amazonas a los boras
 
