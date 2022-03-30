@@ -20,7 +20,7 @@ Primero conociendo Nauta y sus neonto y por la tarde nos dirigimmos al pueblo de
  Haciendo una aventura pescando, creando nuestra proprio caña de pescar, para conocer como pescan los indigenos y cosinar nuestra comida con la pesca del dia con una fogata artesamal. 
 	
 4 - Hacer canotaje :  
- Pasear un conoa por diferentes socoritos de los guebrados observando diferentes especies de plantas y animales que se enuentran en la orilla. 
+ Pasear un conoa por diferentes socoritos de los guebrados observando diferentes especies de plantas y animales que se encuentran en la orilla. 
 	
 5 - Visitar las comunidades de la selva :  
  Para conocer los costumbres de los pueblos entre  ellos estan Amazonas, son Francisco, Grau y otros pueblos mas dependiendo del dia como este ya que la selva es un clima tropical. 
@@ -38,6 +38,14 @@ Primero conociendo Nauta y sus neonto y por la tarde nos dirigimmos al pueblo de
 	1 - Ceremonia de ayahuasca
 	2 - Préparacion de la ayahusaca  
 	3 - El chamanismo
+	
+Requisitos para realizar la ceremonia:
+
+- ser mayor de edad
+- ningún problema cardiovascular
+- ningún problema psicológico
+- una semana antes de la ceremonia, suspender todo consumo de carne, alimentos con alto contenido de azúcar, frituras y alimentos con alto contenido de grasa, todas las drogas y el alcohol.
+	
 </textarea>
 </div> <!-- div bloc_page -->
 
