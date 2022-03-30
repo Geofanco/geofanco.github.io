@@ -3,7 +3,7 @@
 Cambio de escenario y descubrimiento de la riqueza local.
 
 
-#Los dias del tour ($730 por personas)
+# Los dias del tour ($730 por personas)
 
 Dia 1 - Vicitar comunidad indigena por el rio Amazonas a los boras
 
@@ -30,7 +30,8 @@ Dia 7 - Uno ceremonia de ayahuasca por la noche reuniendo a los participantes ju
 - una semana antes de la ceremonia, suspender todo consumo de carne, alimentos con alto contenido de azúcar, frituras y alimentos con alto contenido de grasa, todas las drogas y el alcohol.
 	
 	
-<div id="bloc_page"></div> <!-- div bloc_page -->
+
+	
 # Contactar con nosotros
 
 <textarea STYLE="border-style: none;" cols=80 rows=4>
