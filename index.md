@@ -23,6 +23,7 @@ th, td {
 
 |-------------------------| |
 |<IMG SRC="photo_291%4014-03-2022_16-39-18_thumb.jpg" height="250" width="200" middle ALT="Info" BORDER=0>| Dia 1 - Vicitar comunidad indigena por el rio Amazonas a los boras. |
+|-------------------------| |
 |<IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="200" width="250" middle ALT="Info" BORDER=0>| Dia 2 - Viajar a Nauta por la mañana para conocer sus encanto de Nauta. |
 |<IMG SRC="photo_288%4014-03-2022_16-39-15_thumb.jpg" height="200" width="250" middle ALT="Info" BORDER=0>| Dia 3 - Explorar la selva, conocer diferentes especies de plantas medicinales. |
 |<IMG SRC="photo_286%4014-03-2022_16-39-13_thumb.jpg" height="200" width="250" middle ALT="Info" BORDER=0>| Dia 4 - Hacer caminata nocturnas para conocer diferentes especies de animales como caimanes, cerpientes entre otros especies. |
