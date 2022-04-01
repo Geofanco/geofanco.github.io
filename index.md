@@ -1,7 +1,7 @@
 
 	
-|<IMG SRC="photo_291%4014-03-2022_16-39-18_thumb.jpg" height="200" width="250" ALT="Info" BORDER=0>| Et voilà |
-|<IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="250" width="200" ALT="Info" BORDER=0>| Et voilà2 |
+|<IMG SRC="photo_291%4014-03-2022_16-39-18_thumb.jpg" height="200" width="250" middle ALT="Info" BORDER=0>| Dia 1 - Vicitar comunidad indigena por el rio Amazonas a los boras |
+|<IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="250" width="200" middle ALT="Info" BORDER=0>| Dia 2 - Viajar a Nauta por la mañana para conocer sus encanto de Nauta |
 
 
 
