@@ -1,8 +1,8 @@
-<A HREF="http://?"><IMG SRC="photo_286%4014-03-2022_16-39-13.jpg" ALT="?" BORDER=0></A>
-	
-|<IMG SRC="photo_286%4014-03-2022_16-39-13.jpg" height="200" width="200" ALT="Info" BORDER=0>| Et voilà |
 
-<IMG SRC="photo_286%4014-03-2022_16-39-13.jpg" height="200" width="250" ALT="Info" BORDER=0> Et voilà 
+	
+|<IMG SRC="photo_291%4014-03-2022_16-39-18_thumb.jpg" height="200" width="250" ALT="Info" BORDER=0>| Et voilà |
+|<IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="250" width="200" ALT="Info" BORDER=0>| Et voilà2 |
+
 
 
 Cambio de escenario y descubrimiento de la riqueza local.
