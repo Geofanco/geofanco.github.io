@@ -9,8 +9,8 @@ th, td {
 </style>
 
 <table border="1">  
-<tr><th width="30%"></th><th width="70%"></th></tr>  
-<tr><td><IMG SRC="photo_291%4014-03-2022_16-39-18_thumb.jpg" height="520" width="390" middle ALT="Info" BORDER=0></td><td>Dia 1 - Vicitar comunidad indigena por el rio Amazonas a los boras.</td></tr>  
+<tr><th width="50%"></th><th width="50%"></th></tr>  
+<tr><td><IMG SRC="photo_291%4014-03-2022_16-39-18_thumb.jpg" height="390" width="240" middle ALT="Info" BORDER=0></td><td>Dia 1 - Vicitar comunidad indigena por el rio Amazonas a los boras.</td></tr>  
 <tr><td><IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="390" width="520" middle ALT="Info" BORDER=0></td><td>Dia 2 - Viajar a Nauta por la mañana para conocer sus encanto de Nauta.</td></tr>  
 <tr><td><IMG SRC="photo_288%4014-03-2022_16-39-15_thumb.jpg" height="390" width="520" middle ALT="Info" BORDER=0></td><td>Dia 3 - Explorar la selva, conocer diferentes especies de plantas medicinales.</td></tr>  
 <tr><td><IMG SRC="photo_286%4014-03-2022_16-39-13_thumb.jpg" height="390" width="520" middle ALT="Info" BORDER=0></td><td>Dia 4 - Hacer caminata nocturnas para conocer diferentes especies de animales como caimanes, cerpientes entre otros especies.</td></tr>  
@@ -21,7 +21,7 @@ th, td {
 
 # Los dias del tour ($730 por personas)
 
-|-------------------------| |
+| ------------------------- | |
 |<IMG SRC="photo_291%4014-03-2022_16-39-18_thumb.jpg" height="250" width="200" middle ALT="Info" BORDER=0>| Dia 1 - Vicitar comunidad indigena por el rio
 	Amazonas a los boras. |
 |-------------------------| |
