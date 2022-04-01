@@ -1,7 +1,10 @@
 <A HREF="http://?"><IMG SRC="photo_286%4014-03-2022_16-39-13.jpg" ALT="?" BORDER=0></A>
 	
 |<IMG SRC="photo_286%4014-03-2022_16-39-13.jpg" height="200" width="200" ALT="Info" BORDER=0>| Et voilà |
-	
+
+<IMG SRC="photo_286%4014-03-2022_16-39-13.jpg" height="200" width="250" ALT="Info" BORDER=0> Et voilà 
+
+
 Cambio de escenario y descubrimiento de la riqueza local.
 
 
