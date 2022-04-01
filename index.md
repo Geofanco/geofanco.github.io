@@ -8,9 +8,10 @@ th, td {
 }  
 </style>
 
+# Los dias del tour ($730 por personas)
+
 <table border="1">  
-<tr><th width="50%"></th><th width="50%"></th></tr>  
-<tr><td><IMG SRC="photo_291%4014-03-2022_16-39-18_thumb.jpg" height="195" width="120" middle ALT="Info" BORDER=0></td><td>Dia 1 - Vicitar comunidad indigena por el rio Amazonas a los boras.</td></tr>  
+<tr><td width="40%"><IMG SRC="photo_291%4014-03-2022_16-39-18_thumb.jpg" height="195" width="120" middle ALT="Info" BORDER=0></td><td width="60%">Dia 1 - Vicitar comunidad indigena por el rio Amazonas a los boras.</td></tr>  
 <tr><td><IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="195" width="260" middle ALT="Info" BORDER=0></td><td>Dia 2 - Viajar a Nauta por la mañana para conocer sus encanto de Nauta.</td></tr>  
 <tr><td><IMG SRC="photo_288%4014-03-2022_16-39-15_thumb.jpg" height="195" width="260" middle ALT="Info" BORDER=0></td><td>Dia 3 - Explorar la selva, conocer diferentes especies de plantas medicinales.</td></tr>  
 <tr><td><IMG SRC="photo_286%4014-03-2022_16-39-13_thumb.jpg" height="195" width="260" middle ALT="Info" BORDER=0></td><td>Dia 4 - Hacer caminata nocturnas para conocer diferentes especies de animales como caimanes, cerpientes entre otros especies.</td></tr>  
@@ -20,52 +21,6 @@ th, td {
 </table>
 
 
-# Los dias del tour ($730 por personas)
-
-
-| ------------------------- | |
-|<IMG SRC="photo_291%4014-03-2022_16-39-18_thumb.jpg" height="250" width="200" middle ALT="Info" BORDER=0>| Dia 1 - Vicitar comunidad indigena por el rio
-	Amazonas a los boras. |
-| ------------------------- | |
-|<IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="200" width="250" middle ALT="Info" BORDER=0>| Dia 2 - Viajar a Nauta por la mañana para conocer
-	sus encanto de Nauta. |
-|<IMG SRC="photo_288%4014-03-2022_16-39-15_thumb.jpg" height="200" width="250" middle ALT="Info" BORDER=0>| Dia 3 - Explorar la selva, conocer diferentes
-	especies de plantas medicinales. |
-|<IMG SRC="photo_286%4014-03-2022_16-39-13_thumb.jpg" height="200" width="250" middle ALT="Info" BORDER=0>| Dia 4 - Hacer caminata nocturnas para conocer
-	diferentes especies de animales como caimanes, 
-	cerpientes entre otros especies. |
-|<IMG SRC="photo_285%4014-03-2022_16-39-09_thumb.jpg" height="200" width="250" middle ALT="Info" BORDER=0>| Dia 5 - Hacer pesca a estilo indigena elaborando
-	nuestra propria caña de pesca. |
-|<IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="200" width="250" middle ALT="Info" BORDER=0>| Dia 6 - Hacer canotaje, pasear en canoa por los
-	rios y quebradas observando diferentes especies 
-	de plantas y animales. |
-|<IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="200" width="250" middle ALT="Info" BORDER=0>| Dia 7 - Una ceremonia de ayahuasca por la noche
-	reuniendo a los participantes junto al chaman
-	para hacer un ritual de limpieza con sus cantos
-	del chaman y el humo del tabaco para despedirmos
-	de la selva. |
-
-
-
-# Los dias del tour ($730 por personas)
-
-Dia 1 - Vicitar comunidad indigena por el rio Amazonas a los boras
-
-Dia 2 - Viajar a Nauta por la mañana para conocer sus encanto de Nauta
-
-Dia 3 - Explorar la selva, conocer diferentes especies de plantas medicinales
-
-Dia 4 - Hacer caminata nocturnas para conocer diferentes especies de animales como caimanes, cerpientes entre otros especies
-
-Dia 5 - Hacer pesca a estilo indigena elaborando nuestra propria caña de pesca
-
-Dia 6 - Hacer canotaje, pasear en canoa por los rios y quebradas observando diferentes especies de plantas y animales
-
-Dia 7 - Una ceremonia de ayahuasca por la noche reuniendo a los participantes junto al chaman para hacer un ritual de limpieza con sus cantos del chaman y el humo del tabaco para despedirmos de la selva.
-
-	
-	
-	
 <b>Requisitos para realizar la ceremonia:</b>
 
 - ser mayor de edad
