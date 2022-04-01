@@ -1,3 +1,23 @@
+<style>  
+table, th, td {  
+  border: 1px solid pink;  
+  border-collapse: collapse;  
+}  
+th, td {  
+  padding: 10px;  
+}  
+</style>
+
+
+<table border="1">  
+<tr><th>Nom</th><th>Prénom</th><th>Marque</th></tr>  
+<tr><td>Raefeskov</td><td>Ghribi</td><td>60</td></tr>  
+<tr><td>Dalila</td><td>Baraket</td><td>80</td></tr>  
+<tr><td>Hadoula</td><td>Kocht</td><td>82</td></tr>  
+<tr><td>Karina</td><td>Pelushi</td><td>72</td></tr>  
+</table>
+
+
 
 # Los dias del tour ($730 por personas)
 	
