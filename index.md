@@ -17,7 +17,10 @@ th, td {
 <tr><td>Karina</td><td>Pelushi</td><td>72</td></tr>  
 </table>
 
-
+<table border="1">  
+<tr><th width="30%"></th><th width="70%"></th></tr>  
+<tr><td><IMG SRC="photo_291%4014-03-2022_16-39-18_thumb.jpg" height="250" width="200" middle ALT="Info" BORDER=0></td><td>Dia 1 - Vicitar comunidad indigena por el rio Amazonas a los boras.</td></tr>  
+</table>
 
 # Los dias del tour ($730 por personas)
 
