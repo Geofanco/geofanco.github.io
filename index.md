@@ -26,7 +26,7 @@ th, td {
 - ser mayor de edad
 - ningún problema cardiovascular
 - ningún problema psicológico
-- una semana antes de la ceremonia, suspender todo consumo de carne, alimentos con alto contenido de azúcar, frituras y alimentos con alto contenido de grasa, todas las drogas y el alcohol.
+- una semana antes de la ceremonia, suspender todo consumo de carne, alimentos con alto contenido de azúcar o grasa, frituras, todas drogas y alcohol.
 	
 	
 
