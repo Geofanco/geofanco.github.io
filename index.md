@@ -10,7 +10,7 @@ th, td {
 
 
 <table border="1">  
-<tr><th>Nom</th><th>Prénom</th><th>Marque</th></tr>  
+<tr><th width:500px;>Nom</th><th>Prénom</th><th>Marque</th></tr>  
 <tr><td>Raefeskov</td><td>Ghribi</td><td>60</td></tr>  
 <tr><td>Dalila</td><td>Baraket</td><td>80</td></tr>  
 <tr><td>Hadoula</td><td>Kocht</td><td>82</td></tr>  
