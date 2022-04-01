@@ -9,6 +9,7 @@ th, td {
 </style>
 
 <A HREF="index-ingles"><IMG SRC="Flag-En-1.jpg" ALT="?" BORDER=0></A>
+	<A HREF="https://www.sachamama-ayahuasca.com/home"><IMG SRC="Flag-En-1.jpg" ALT="?" BORDER=0></A>
 
 
 # Los dias del tour ($730 por personas)
