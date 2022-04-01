@@ -8,6 +8,9 @@ th, td {
 }  
 </style>
 
+<A HREF="http://?"><IMG SRC="" ALT="?" BORDER=0></A>
+
+
 # Los dias del tour ($730 por personas)
 
 <table border="1">  
