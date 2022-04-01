@@ -1,4 +1,4 @@
-<A HREF="http://?"><IMG SRC="main/photo_286%4014-03-2022_16-39-13.jpg" ALT="?" BORDER=0></A>
+<A HREF="http://?"><IMG SRC="photo_286%4014-03-2022_16-39-13.jpg" ALT="?" BORDER=0></A>
 	
 Cambio de escenario y descubrimiento de la riqueza local.
 
