@@ -27,9 +27,9 @@ th, td {
 
 <b>Requirements to perform the ceremony:</b>
 
-- be of legal age
-- no cardiovascular problems
-- no psychological problem
+- Be of legal age
+- No cardiovascular problems
+- No psychological problem
 - One week before the ceremony, stop all consumption of meat, foods with a high content of sugar or fat, fried foods, all drugs and alcohol.
 	
 	
