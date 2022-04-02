@@ -10,7 +10,7 @@ th, td {
 
 <A HREF="index-en.html"><IMG SRC="Flag-En-1.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>
 <A HREF=""><IMG SRC="blanc.jpg" height="12" width="3" ALT="?" BORDER=0 ALIGN="right"></A>
-<A HREF="index-fr"><IMG SRC="bandera-sp.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>
+<A HREF="index"><IMG SRC="bandera-sp.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>
 
 
 # 7 jours de découvertes (730$ par personne)
