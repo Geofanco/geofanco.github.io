@@ -8,7 +8,7 @@ th, td {
 }  
 </style>
 
-<A HREF="index.html"><IMG SRC="Flag-En-1.jpg" ALT="?" BORDER=0></A>
+<A HREF="index.html"><IMG SRC="Flag-En-1.jpg" ALT="?" BORDER=0 ALIGN="right"></A>
 	<A HREF="https://www.sachamama-ayahuasca.com/home"><IMG SRC="Flag-En-1.jpg" ALT="?" BORDER=0></A>
 
 
