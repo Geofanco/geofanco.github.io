@@ -8,8 +8,9 @@ th, td {
 }  
 </style>
 
-<A HREF="index.html"><IMG SRC="Flag-En-1.jpg" ALT="?" BORDER=0 ALIGN="right"></A>
-<A HREF="index-fr"><IMG SRC="drapeau-fr-r.jpg" height="24" width="47" ALT="?" BORDER=0 ALIGN="right"></A>
+<A HREF="index.html"><IMG SRC="Flag-En-1.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>
+<A HREF=""><IMG SRC="" ALT="" BORDER=0 ALIGN="right"></A>
+<A HREF="index-fr"><IMG SRC="drapeau-fr-r.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>
 
 
 # Los dias del tour ($730 por personas)
