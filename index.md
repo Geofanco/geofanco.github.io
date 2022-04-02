@@ -8,7 +8,7 @@ th, td {
 }  
 </style>
 
-<A HREF="index.html"><IMG SRC="Flag-En-1.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>&nbsp;a
+<A HREF="index.html"><IMG SRC="Flag-En-1.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right">&nbsp;</A>
 <A HREF="index-fr"><IMG SRC="drapeau-fr-r.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>
 
 
