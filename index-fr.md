@@ -8,35 +8,34 @@ th, td {
 }  
 </style>
 
-<A HREF="index-fr"><IMG SRC="bandera-sp.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>
-<A HREF=""><IMG SRC="blanc.jpg" height="12" width="3" ALT="?" BORDER=0 ALIGN="right"></A>
 <A HREF="index-en.html"><IMG SRC="Flag-En-1.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>
+<A HREF=""><IMG SRC="blanc.jpg" height="12" width="3" ALT="?" BORDER=0 ALIGN="right"></A>
+<A HREF="index-fr"><IMG SRC="bandera-sp.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>
 
 
-# Los dias del tour ($730 por personas)
+# 7 jours de découvertes (730$ par personne)
 
 <table border="1">  
-<tr><td width="35%"><IMG SRC="photo_291%4014-03-2022_16-39-18-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td width="65%">Dia 1 - Vicitar comunidad indigena por el rio Amazonas a los boras.</td></tr>  
-<tr><td><IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Dia 2 - Viajar a Nauta por la mañana para conocer sus encanto de Nauta.</td></tr>  
-<tr><td><IMG SRC="photo_288%4014-03-2022_16-39-15-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Dia 3 - Explorar la selva, conocer diferentes especies de plantas medicinales.</td></tr>  
-<tr><td><IMG SRC="photo_286%4014-03-2022_16-39-13_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Dia 4 - Hacer caminata nocturnas para conocer diferentes especies de animales como caimanes, cerpientes entre otros especies.</td></tr>  
-<tr><td><IMG SRC="photo_285%4014-03-2022_16-39-09_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Dia 5 - Hacer pesca a estilo indigena elaborando nuestra propria caña de pesca.</td></tr>  
-<tr><td><IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Dia 6 - Hacer canotaje, pasear en canoa por los rios y quebradas observando diferentes especies de plantas y animales.</td></tr> 
-<tr><td><IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Dia 7 - Una ceremonia de ayahuasca por la noche reuniendo a los participantes junto al chaman para hacer un ritual de limpieza con sus cantos del chaman y el humo del tabaco para despedirmos de la selva.</td></tr> 
+<tr><td width="35%"><IMG SRC="photo_291%4014-03-2022_16-39-18-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td width="65%">Jour 1 - Visite de la communauté indigène le long du fleuve Amazone jusqu'aux Boras.</td></tr>  
+<tr><td><IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Jour 2 - Voyage à Nauta le matin pour y  découvrir son charme.</td></tr>  
+<tr><td><IMG SRC="photo_288%4014-03-2022_16-39-15-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Jour 3 - Explorez la jungle, rencontrez différentes espèces de plantes médicinales.</td></tr>  
+<tr><td><IMG SRC="photo_286%4014-03-2022_16-39-13_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Jour 4 - Sorties nocturnes à la rencontre de différentes espèces d'animaux comme les alligators, les serpents entre autres espèces.</td></tr>  
+<tr><td><IMG SRC="photo_285%4014-03-2022_16-39-09_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Jour 5 - Pêche dans la tradition indigène en fabriquant notre propre canne à pêche.</td></tr>  
+<tr><td><IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Jour 6 - Faire de la pirogue sur les rivières et les ruisseaux en observant différentes espèces de plantes et d'animaux.</td></tr> 
+<tr><td><IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Jour 7 - Cérémonie nocturne d'ayahuasca rassemblant les participants avec le chaman pour effectuer un rituel de purification avec les chants du chaman et la fumée de tabac pour dire au revoir à la jungle.</td></tr> 
 </table>
 
 
-<b>Requisitos para realizar la ceremonia:</b>
+<b>Conditions requises pour effectuer la cérémonie :</b>
 
-- ser mayor de edad
-- ningún problema cardiovascular
-- ningún problema psicológico
-- una semana antes de la ceremonia, suspender todo consumo de carne, alimentos con alto contenido de azúcar o grasa, frituras, todas drogas y alcohol.
-	
+- Etre majeur
+- Aucun problème cardiovasculaire
+- Aucun problème psychologique
+- Une semaine avant la cérémonie, arrêtez toute consommation de viande, d'aliments à forte teneur en sucre ou en matières grasses, de fritures, de toute drogue et d'alcool.
 	
 
 	
-# Contactar con nosotros
+# Contactez-nous
 
 <textarea STYLE="border-style: none;" cols=80 rows=4>
         Email : maravillaamazonastourperu@gandi.com
