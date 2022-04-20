@@ -15,7 +15,7 @@ th, td {
 # The days of the tour ($730 per person)
 
 <table border="1">  
-<tr><td width="35%"><IMG SRC="photo_291%4014-03-2022_16-39-18-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td width="65%">Day 1 - Visit the indigenous Bora community along the Amazon River.</td></tr>  
+<tr><td width="35%"><IMG SRC="photo_291%4014-03-2022_16-39-18-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td width="65%">Day 1 - Visit the indigenous community Los Boras.</td></tr>  
 <tr><td><IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Day 2 - Travel to Nauta in the morning to discover its charms of Nauta.</td></tr>  
 <tr><td><IMG SRC="photo_288%4014-03-2022_16-39-15-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Day 3 - Explore the jungle, meet different species of medicinal plants.</td></tr>  
 <tr><td><IMG SRC="photo_286%4014-03-2022_16-39-13_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Day 4 - Make night walks to meet different species of animals such as alligators, snakes among other species.</td></tr>  
