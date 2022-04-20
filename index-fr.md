@@ -16,7 +16,7 @@ th, td {
 # 7 jours de découvertes (730$ par personne)
 
 <table border="1">  
-<tr><td width="35%"><IMG SRC="photo_291%4014-03-2022_16-39-18-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td width="65%">Jour 1 - Visite de la communauté indigène des boras le long du fleuve Amazone.</td></tr>  
+<tr><td width="35%"><IMG SRC="photo_291%4014-03-2022_16-39-18-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td width="65%">Jour 1 - Visite de la communauté indigène Los Boras.</td></tr>  
 <tr><td><IMG SRC="photo_289%4014-03-2022_16-39-17_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Jour 2 - Voyage à Nauta le matin pour y  découvrir son charme.</td></tr>  
 <tr><td><IMG SRC="photo_288%4014-03-2022_16-39-15-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Jour 3 - Explorez la jungle, rencontrez différentes espèces de plantes médicinales.</td></tr>  
 <tr><td><IMG SRC="photo_286%4014-03-2022_16-39-13_thumb.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td>Jour 4 - Sorties nocturnes à la rencontre de différentes espèces d'animaux comme les alligators, les serpents entre autres espèces.</td></tr>  
