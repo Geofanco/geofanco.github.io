@@ -41,6 +41,6 @@ th, td {
 # Contact us
 
 <textarea STYLE="border-style: none;" cols=80 rows=4>
-        Email : maravillaamazonastourperu@gandi.com
+        Email : maravillaamazonastourperu@gmail.com
 
 </textarea>
