@@ -12,7 +12,7 @@ th, td {
 <A HREF=""><IMG SRC="blanc.jpg" height="12" width="3" ALT="?" BORDER=0 ALIGN="right"></A>
 <A HREF="index.html"><IMG SRC="bandera-sp.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>
 
-# The days of the tour ($730 per person, includes accommodation and meals)
+# The days of the tour ($730 per person)
 
 <table border="1">  
 <tr><td width="35%"><IMG SRC="photo_291%4014-03-2022_16-39-18-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td width="65%">Day 1 - Visit the indigenous community Los Boras.</td></tr>  
@@ -32,7 +32,10 @@ th, td {
 - No psychological problem
 - One week before the ceremony, stop all consumption of meat, foods with a high content of sugar or fat, fried foods, all drugs and alcohol.
 	
-	
+<b>The price includes:</b>
+
+- Accommodation
+- Foods
 
 	
 # Contact us
