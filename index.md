@@ -42,6 +42,6 @@ th, td {
 # Contactar con nosotros
 
 <textarea STYLE="border-style: none;" cols=80 rows=4>
-        Email : amazonastourperu@gmail.com
+        Email : maravillaamazonastourperu@gmail.com
 
 </textarea>
