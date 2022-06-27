@@ -13,7 +13,7 @@ th, td {
 <A HREF="index-en.html"><IMG SRC="Flag-En-1.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>
 
 
-# Los dias del tour ($730 por personas, incluye alojamiento y comidas)
+# Los dias del tour ($730 por personas)
 
 <table border="1">  
 <tr><td width="35%"><IMG SRC="photo_291%4014-03-2022_16-39-18-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td width="65%">Dia 1 - Visitar comunidad indigena Los Boras.</td></tr>  
@@ -32,6 +32,11 @@ th, td {
 - ningún problema cardiovascular
 - ningún problema psicológico
 - una semana antes de la ceremonia, suspender todo consumo de carne, alimentos con alto contenido de azúcar o grasa, frituras, todas drogas y alcohol.
+	
+<b>El precio incluye:</b>
+
+- Alojamiento
+- Comidas
 	
 	
 # Contactar con nosotros
