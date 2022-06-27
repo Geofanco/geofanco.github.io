@@ -13,7 +13,7 @@ th, td {
 <A HREF="index"><IMG SRC="bandera-sp.jpg" height="12" width="24" ALT="?" BORDER=0 ALIGN="right"></A>
 
 
-# 7 jours de découvertes (730$ par personne, inclu l'hébergement et les repas)
+# 7 jours de découvertes (730$ par personne)
 
 <table border="1">  
 <tr><td width="35%"><IMG SRC="photo_291%4014-03-2022_16-39-18-a.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td width="65%">Jour 1 - Visite de la communauté indigène Los Boras.</td></tr>  
@@ -33,7 +33,10 @@ th, td {
 - Aucun problème psychologique
 - Une semaine avant la cérémonie, arrêtez toute consommation de viande, d'aliments à forte teneur en sucre ou en matières grasses, de fritures, de toute drogue et d'alcool.
 	
+<b>Le prix inclu:</b>
 
+- Hébergement
+- Repas
 	
 # Contactez-nous
 
