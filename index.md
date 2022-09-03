@@ -49,7 +49,7 @@ th, td {
 # Otras fotos
 
 <table border="1">  
-<tr><td width="50%"><IMG SRC="photo_2022-09-04_01-12-29.jpg" height="195" width="260" middle ALT="" BORDER=0></td><td width="50%"><IMG SRC="photo_2022-09-04_01-12-51.jpg" height="195" width="260" middle ALT="" BORDER=0></td></tr>  
+<tr><td width="50%"><IMG SRC="photo_2022-09-04_01-12-29.jpg"  middle ALT="" BORDER=0></td><td width="50%"><IMG SRC="photo_2022-09-04_01-12-57.jpg"  middle ALT="" BORDER=0></td></tr>  
 <tr><td width="50%"><IMG SRC="" height="195" width="260" middle ALT="" BORDER=0></td><td width="50%"><IMG SRC="" height="195" width="260" middle ALT="" BORDER=0></td></tr>  
 <tr><td width="50%"><IMG SRC="" height="195" width="260" middle ALT="" BORDER=0></td><td width="50%"><IMG SRC="" height="195" width="260" middle ALT="" BORDER=0></td></tr>  
 </table>
