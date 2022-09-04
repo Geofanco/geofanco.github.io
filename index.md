@@ -57,6 +57,6 @@ th, td {
 <tr><td width="50%"><IMG SRC="photo_2022-09-04_01-14-29.jpg" middle ALT="" BORDER=0></td><td width="50%"><IMG SRC="photo_2022-09-04_01-14-42.jpg" middle ALT="" BORDER=0></td></tr>  
 <tr><td width="50%"><IMG SRC="photo_2022-09-04_01-14-47.jpg" middle ALT="" BORDER=0></td><td width="50%"><IMG SRC="photo_2022-09-04_01-14-51.jpg" middle ALT="" BORDER=0></td></tr>  
 <tr><td width="50%"><IMG SRC="photo_2022-09-04_01-14-56.jpg" middle ALT="" BORDER=0></td><td width="50%"><IMG SRC="" middle ALT="" BORDER=0></td></tr>  
-<tr><td width="50%"><IMG SRC="photo_2022-09-04_01-12-51.jpg" middle ALT="" BORDER=0></td><td width="50%"><IMG SRC="photo_2022-09-04_01-14-34.jpg" middle ALT="" BORDER=0></td></tr>  
-<tr><td width="50%"><IMG SRC="photo_2022-09-04_01-14-37.jpg" middle ALT="" BORDER=0></td><td width="50%"><IMG SRC="" middle ALT="" BORDER=0></td></tr>  
+<tr><td width="50%"><IMG SRC="photo_2022-09-04_01-12-51.jpg" middle ALT="" BORDER=0></td><td width="50%"><IMG SRC="" middle ALT="" BORDER=0></td></tr>  
+<tr><td width="50%"><IMG SRC="photo_2022-09-04_01-14-37.jpg" middle ALT="" BORDER=0></td><td width="50%"><IMG SRC="photo_2022-09-04_01-14-34.jpg" middle ALT="" BORDER=0></td></tr>  
 </table>
