@@ -46,7 +46,7 @@ th, td {
 
 </textarea>
 	
-# Otras fotos
+# Otras fotos del equipo y lugares visitados
 
 <table border="1">  
 <tr><td width="50%"><IMG SRC="photo_2022-09-04_01-12-29.jpg"  middle ALT="" BORDER=0></td><td width="50%"><IMG SRC="photo_2022-09-04_01-12-57.jpg"  middle ALT="" BORDER=0></td></tr>  
