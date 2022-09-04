@@ -1,3 +1,5 @@
+
+<IMG SRC="BandeEnteteAmazonasAvecLogo-sp.jpg">
 <style>  
 table, th, td {  
   border: 1px solid blue;  
